@@ -15,7 +15,7 @@ AllowShortCaseLabelsOnASingleLine: true
 AllowShortIfStatementsOnASingleLine: true
 AlwaysBreakTemplateDeclarations: true
 BreakBeforeBraces: Allman
-ColumnLimit:     100
+ColumnLimit:     120
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
 CommentPragmas:  '(/<|!<)'
 IncludeCategories:
